@@ -43,7 +43,7 @@ for(i in 1:14){
 }
 
 rankDat <- data.frame(rank = seq(1,10,1),
-                      'Week1' = Weeks[1],
+                      Week1 = Weeks[1],
                       Week2 = Weeks[2],
                       Week3 = Weeks[3],
                       Week4 = Weeks[4],
